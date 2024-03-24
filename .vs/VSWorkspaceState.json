@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Intro",
+    "\\Intro\\Intro",
     "\\WebApi",
-    "\\WebApi\\Business"
+    "\\WebApi\\Business",
+    "\\WebApi\\Business\\Abstracts",
+    "\\WebApi\\Business\\Concretes"
   ],
-  "SelectedNode": "\\WebApi\\Business\\Business.csproj",
+  "SelectedNode": "\\WebApi\\Business\\Concretes\\BrandManager.cs",
   "PreviewInSolutionExplorer": false
 }
